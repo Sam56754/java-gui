@@ -17,6 +17,4 @@ this is the first display on run
 ![sixth](https://github.com/Sam56754/java-gui/assets/126097333/78b13c15-79a0-481f-bff8-8e0f7485bafa)
 
 
-
-
 this is basically my first gui app that i made in java, it doesnt have lots of functions to it but i'll update it occasionally

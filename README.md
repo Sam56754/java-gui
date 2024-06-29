@@ -1,4 +1,5 @@
 ![first](https://github.com/Sam56754/java-gui/assets/126097333/ba153847-f576-4659-8b03-7391279086fe)
+
 this is the first display on run
 
 

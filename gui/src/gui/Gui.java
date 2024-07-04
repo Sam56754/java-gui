@@ -25,11 +25,11 @@ public class Gui {
 
     public Gui() {
         //Load images
-        birdIcon = new ImageIcon("src/gui/bird.jpeg");
-        catIcon = new ImageIcon("src/gui/cat.jpg");
-        dogIcon = new ImageIcon("src/gui/dog.jpg");
-        rabbitIcon = new ImageIcon("src/gui/rabbit.jpg");
-        pigIcon = new ImageIcon("src/gui/pig.jpg");
+        birdIcon = new ImageIcon("gui/src/gui/bird.jpeg");
+        catIcon = new ImageIcon("gui/src/gui/cat.jpg");
+        dogIcon = new ImageIcon("gui/src/gui/dog.jpg");
+        rabbitIcon = new ImageIcon("gui/src/gui/rabbit.jpg");
+        pigIcon = new ImageIcon("gui/src/gui/pig.jpg");
         
         //resize the images
         Image animalImage = birdIcon.getImage();
